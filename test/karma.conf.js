@@ -37,6 +37,7 @@ module.exports = function(config) {
       'bower_components/iCheck/icheck.min.js',
       'bower_components/ngstorage/ngStorage.js',
       'bower_components/ui-router-states-tree/ui-router-states-tree.js',
+      'bower_components/d3/d3.js',
       'bower_components/angular-mocks/angular-mocks.js',
       // endbower
       "app/scripts/**/*.js",
